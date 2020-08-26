@@ -1,0 +1,218 @@
+body {
+	margin:0 auto;
+	font-size:12px;
+	background:#DFE8F6;
+}
+a:link{color:#000;text-decoration:none;}
+a:visited{color:#000;text-decoration:none;}
+a:hover{color:#ac0000;text-decoration: underline}
+a:active{color:#000;text-decoration:none;}
+img {
+border:0px;
+}
+input {
+border:1px solid #B5B8C8;
+}
+.topbg {
+background:url(headerbj.gif) repeat-x;
+height:33px;
+text-align:left;}
+.zdh {
+background:url(bg.gif) repeat-x top;
+height:25px;
+border-bottom:1px solid #8DB2E3;
+border-top:1px solid #8DB2E3;}
+.topwz {
+font-size:16px;
+font-weight:bold;
+color:#FFFFFF;
+}
+.anniu {
+background:url(btnbg.jpg) repeat-x;
+height:20px;
+border:0px;
+}
+.tophy {
+font-size:14px;
+color:#FFFFFF;
+padding-right:20px;
+}
+.zdhbgmr {
+ background:url(zdhbg.jpg) no-repeat center;height:22px;width:75px;
+ text-align:center;
+}
+.zdhbgmr a{
+text-align:center;
+color:#000000;
+display:block;
+height:22px;
+width:75px;
+text-decoration:none;
+}
+.zdhbg {
+text-align:center;
+color:#000000;
+
+}
+.zdhbg a{
+text-align:center;
+color:#000000;
+display:block;
+height:22px;
+width:75px;
+}
+.zdhbg a:link{text-decoration:none;}
+.zdhbg a:visited{text-decoration:none;}
+.zdhbg a:hover{ text-decoration:none; background:url(zdhbg2.jpg) no-repeat center;height:22px;width:75px; }
+.zdhbg a:active{text-decoration:none;}
+.leftbr {
+width:95%;
+min-width:200px;
+overflow:hidden;
+border:1px solid #8DB2E3;
+margin:8px 5px 8px 5px;
+background:#FFFFFF;}
+.rightbr {
+width:99%;
+min-width:700px;
+overflow:hidden;
+border:1px solid #8DB2E3;
+margin:8px 5px 8px 5px;
+background:#FFFFFF;}
+.leftbr td{
+}
+.l_bt {
+background:url(l_bt.jpg) repeat-x;
+height:25px;
+text-align:left;
+padding-left:15px;
+color:#15428B;
+font-weight:bold;
+}
+.l_bt2 {
+background:url(l_bt2.jpg) repeat-x;
+height:23px;
+font-weight:bold;
+}
+.l_nr {
+padding:10px;
+}
+.rglsybg{
+text-align:center;
+color:#000000;
+font-weight:bold;
+display:block;
+height:23px;
+width:110px;
+background:url(rglsybg.jpg) no-repeat center;height:23px;width:110px;
+}
+.rglsybg4{
+text-align:center;
+color:#000000;
+font-weight:bold;
+display:block;
+height:23px;
+width:110px;
+background:url(rglsybg4.jpg) no-repeat center;height:23px;width:110px;
+}
+.rdh {
+background:url(bg.gif) repeat-x top;
+height:25px;
+border-bottom:1px solid #8DB2E3;
+padding-top:2px;
+}
+.rnrbtbg {
+background:url(hometitlebj.png) repeat-x;
+height:30px;}
+.rnrbr {
+margin:10px 0px 10px 0px;
+}
+.rnr{
+margin:10px;
+}
+.rnrbtwz {
+background:url(rglsybg4.jpg) repeat-x;
+height:17px;
+width:110px;
+padding-top:5px;
+font-weight:bold;}
+.rbtwz {
+font-weight:bold;
+}
+.ej_anbg {
+background:url(zdhbg3.jpg) no-repeat;
+text-align:center;
+width:60px;
+height:22px;}
+.ht_lbr {
+margin-top:6px;
+}
+.ht_lnr {
+padding:10px 0px 10px 0px;
+background:#ffffff;
+}
+.fwranbg {
+background:#C8E6F9;
+border-left:1px solid #4891C6;
+}
+.ht_lbtbg2 {
+background:url(ht_lbtbg4.jpg) no-repeat;
+font-size:12px;
+font-weight:bold;
+color:#005790;
+text-align:center;
+height:32px;}
+.ht_lbtbg2 a{
+font-size:12px;
+font-weight:bold;
+color:#005790;
+text-align:center;
+height:32px;
+padding-top:2px;
+}
+.ht_lbtbg2 a:link{color:#005790;text-decoration:none;}
+.ht_lbtbg2 a:visited{color:#005790;text-decoration:none;}
+.ht_lbtbg2 a:hover{ color:#005790;text-decoration:none;}
+.ht_lbtbg3 {
+background:url(ht_lbtbg3.jpg) no-repeat;
+font-size:14px;
+font-weight:bold;
+color:#005790;
+text-align:center;
+height:32px;}
+.ht_lbtbg3 a{
+font-size:14px;
+font-weight:bold;
+color:#005790;
+text-align:center;
+height:32px;
+padding-top:2px;
+}
+.ht_lbtbg3 a:link{color:#005790;text-decoration:none;}
+.ht_lbtbg3 a:visited{color:#005790;text-decoration:none;}
+.ht_lbtbg3 a:hover{ color:#005790;text-decoration:none;}
+.tcbtwz {
+font-weight:bold;
+color:#004D97;}
+.tsslbtbr {
+border-top:1px solid #8EA4C1;border-right:1px solid #8EA4C1;border-left:1px solid #8EA4C1;margin:10px 0px 0px 0px;
+}
+.tsslnrbr {
+
+}
+.tsslnrbr td{
+background:#E9F6FF;
+line-height:30px;
+padding:2px 5px 2px 10px;
+
+}
+.fwbtbr {
+margin-top:10px;
+}
+.fwbtbg {
+background:url(ht_rdqwzbg.jpg) repeat-x;
+height:27px;
+font-weight:bold;
+padding-left:20px;
+border-top:1px solid #4891C6;
+margin-bottom:8px;}
